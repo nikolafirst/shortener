@@ -6,3 +6,5 @@ http_server: # конфигурация http-сервера
   address: "localhost:8082"
   timeout: 4s
   idle_timeout: 60s
+  user: "myuser"
+  password: "mypass"
